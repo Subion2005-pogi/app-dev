@@ -7,9 +7,6 @@ Genre:Sports,Comedy,Drama
 Original creator:Takehiko Inoue
 Anime studio:Toei Animation
 
- About
-*Slam Dunk* follows **Hanamichi Sakuragi**, a delinquent who joins the Shohoku High basketball team to impress a girl, and ends up falling in love with the sport itself. It's one of the most loved sports series ever, and it's funny, emotional, and exciting at the same time.
-
 Main Characters
 1. Hanamichi Sakuragi, the energetic rookie
 2. Kaede Rukawa, the team's cool and skilled ace
